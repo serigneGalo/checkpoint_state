@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 100vmin;
+}
+
+/* Button{
+  font-size: 70%;
+}
+ */
+h1{
+  background-color: #151515;
+/*   min-height: 100vh;
+  
+  
+  ;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+/*   font-size: calc(10px + 2vmin);
+ */  color: #B4A5A5;
+
+}
+
+img{
+  border: solid 5px #301B3F;
+  border-radius: 2%;
+}
+
+p{
+  text-decoration: underline #301B3F;
+}
